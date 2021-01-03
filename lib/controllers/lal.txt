@@ -1,0 +1,30 @@
+If a user wants to watch a video s/he have to register first.
+
+To register s/he need to fill a form or s/he can also register with Google, 
+Facebook or Github account. That form containes full name, email and password.
+
+If s/he logged in using any social media then we will get an Facebook ID/ Googl ID/
+Github ID, Full Name, Image URL and Email. System will deside an user type and give 
+an user id.
+
+Upon entering the system the user will be able to see some list of video.
+If s/he selects a particular video from the list s/he 
+will be able to see full details of that video title, description, views, 
+runtime, year, imdb link, imdb rating, genres, country, type, poster, video file, 
+cast, creators, photos, age rating, likes, dislikes, comment.
+
+user can like, dislike and comment. To like, dislike and comment user 
+will have to select the particular video. 
+To comment user have to fill a comment box and submit.
+
+Comment will have a user id, video id, comment text, comment type, timestamp.
+Like will also have a user id, video id, isLiked.
+
+
+
+Admin can upload/edit video or any kind of videos. 
+To upload a video admin has to be logged in the system. 
+After loggin in admin has to fill up title, description, runtime, year, 
+imdb link, imdb rating, genres, country, type, poster, video file, cast, 
+creators, age rating and photos.
+

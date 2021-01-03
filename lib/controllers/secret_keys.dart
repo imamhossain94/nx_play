@@ -1,0 +1,4 @@
+library secretkeys;
+
+const GITHUB_CLIENT_ID = "1373e71a4c548eb4c3d0";
+const GITHUB_CLIENT_SECRET = "1f82b8e77859222320a66f166e6374919f914f94";
